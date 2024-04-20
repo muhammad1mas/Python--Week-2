@@ -209,21 +209,21 @@ Mode (The most common value) = Returns the mode of the values in the specified a
 
 
 
-# The df.unique() syntax is used to get unique values in the columns of a pandas DataFrame.
+- The df.unique() syntax is used to get unique values in the columns of a pandas DataFrame.
 
 
-# The df.nunique() is a function in Python that is used to get the unique number of values in a column or axis in a DataFrame.
+- The df.nunique() is a function in Python that is used to get the unique number of values in a column or axis in a DataFrame.
 
-# The df.type_value_counts() is a method on a DataFrame in pandas that is used to count the number of occurrences of each unique value in a column, while ordering them based on the number of occurrences.
+- The df.type_value_counts() is a method on a DataFrame in pandas that is used to count the number of occurrences of each unique value in a column, while ordering them based on the number of occurrences.
 
-# Call a specific column is a notation for retrieving certain columns from a DataFrame df. This notation will return a new DataFrame containing only the specified columns.
+- Call a specific column is a notation for retrieving certain columns from a DataFrame df. This notation will return a new DataFrame containing only the specified columns.
 
-# Calling a Python dataset with terms and conditions means retrieving or selecting certain data from a dataset based on certain terms or conditions. This can be done using boolean operators or logical statements, such as ==, !=, <, >, <=, >=, or and, or, not.
+- Calling a Python dataset with terms and conditions means retrieving or selecting certain data from a dataset based on certain terms or conditions. This can be done using boolean operators or logical statements, such as ==, !=, <, >, <=, >=, or and, or, not.
 
-# Calls several columns accompanied by a filter terms and conditions
+- Calls several columns accompanied by a filter terms and conditions
 
 
-# DateTime 
+## DateTime 
 DateTime is a module in Python that deals with real-time data and time. It provides classes and functions to manipulate and format dates and times. Here are some commonly used classes and functions in the DateTime module. 
 - date : This class represents a date (year, month, and day) without time.
 - datetime : This class represents a date and time (year, month, day, hour, minute, second, and microsecond).
@@ -237,9 +237,11 @@ The random module in Python provides various functions to generate random number
 ## Txt File - Open - Read - Close
 Open : In Python, you can open and read a text file using the built-in open() function. The open() function in Python is used to open a file and return a file (.txt) object.
 
-## Read : The read() function in Python is used to read the contents of a file object that has been opened using the open() function. 
+## Read : 
+The read() function in Python is used to read the contents of a file object that has been opened using the open() function. 
 
-## Close : The close() function in Python is used to close a file that has been opened using the open() function. This is important because it frees up system resources and ensures that any changes made to the file are saved.
+## Close : 
+The close() function in Python is used to close a file that has been opened using the open() function. This is important because it frees up system resources and ensures that any changes made to the file are saved.
 
 
 
