@@ -15,7 +15,7 @@ By default, Python will position according to the registration order in which it
 
 ## Return
 The Phython Return statement is a special statement that can use inside in function or method to send the function’s result back to the caller. A Return statement consist of the return keyword followed by an optional return value. The return value of a Python function can be any Python object.
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/dcc6ceeb-23bd-43b2-bfc1-6b172853f241" /></div>
 - The return value of a function can be stored in a variable.
 - This will differentiate a function that returns a value from a function that does not return a value (often referred to as a procedure).
 
@@ -23,7 +23,7 @@ The Phython Return statement is a special statement that can use inside in funct
 ## Pass by reference vs value
 The difference between pass-by-reference and pass-by-value is that modifications made to arguments passed in by reference in the called function have effect in the calling function, whereas modifications made to arguments passed in by value in the called function can not affect the calling function.
 
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/4fa870e4-51a3-4437-b6aa-917dc41bc78c" /></div>
 
 ## NUMPY
 What is NumPy?
@@ -36,7 +36,7 @@ At the core of the NumPy package, is the ndarray object. This encapsulates n-dim
 ## The next step is how to apply NumPy in Python :
 ## Checking NumPy Version
 The “print(np.version)" syntax is used to determine the installed version of NumPy in Python.
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/7c381ebd-6adf-4e5b-84fe-80a15bbe0ed6" /></div>
 ## Import NumPy
 The “import numpy as np” statement is used to import the NumPy library into Python, allowing you to use its functions for numerical calculations and array manipulations.
 
@@ -130,7 +130,7 @@ DataFrame is a two-dimensional tabular data structure with labeled axes (rows an
 
 ## DataFrame With 2 Series : 
 
-
+<div align="center"><img src="" /></div>
 
 
 
@@ -141,64 +141,68 @@ DataFrame is a two-dimensional tabular data structure with labeled axes (rows an
 ## Load Data CSV
 Load Data ‘Kelahiran_Bayi_Jakarta_2020’.csv that has been aplouded in the same folder in Python.
 
-
+<div align="center"><img src="" /></div>
 
 
 # Head()
 Head() function to a viewing top in data by default is top five can be customized as required.
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/95fe176b-152d-4e7c-8141-3664b538a6fe" /></div>
 # Tail()
 Tail()returns the last 5 rows if a number is not specified,returns a specified number of last rows.
 
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/cd031687-f0bb-461b-af74-14ceab90083e" /></div>
 
 # Info()
 Info()Info method prints information about the DataFrame.
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/10eed778-2b5a-4f87-98fa-ee538ab69309" /></div>
 
 
 # Index
 Index returns the index information of the DataFrame.
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/1c5658b1-e800-4cfa-890b-403ec6e8f8d7" /></div>
+
 
 
 
 # IsNull()
 isnull used to finds NULL values in DataFrame.
 
-
+<div align="center"><img src="![Screenshot 2024-04-20 140942](https://github.com/muhammad1mas/Python--Week-2/assets/166146116/2dee0d79-d747-41d2-b3b6-0bcf4483d9d3)
+" /></div>
 
 
 
 # NotNull()
 notnull used to finds values that are NOT NULL.
 
-
+<div align="center"><img src="![Screenshot 2024-04-20 140933](https://github.com/muhammad1mas/Python--Week-2/assets/166146116/cdc272b4-e1e0-4410-922a-68edb311d20b)
+" /></div>
 
 # Shape
 Shape is the number of rows and columns on the index of the DataFrame.
 
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/4f181cf7-7e3b-4522-8d44-d8bc81cb83a5" /></div>
 
 
 # Columns
 Column returns the label of each column in the DataFrame.
 
-
+<div align="center"><img src="" /></div>
 
 # Describe
 Returns a description summary for each column in the DataFrame,describe contains numeric data from managed datasets.
 
-
+<div align="center"><img src="https://github.com/muhammad1mas/Python--Week-2/assets/166146116/9928c477-9a20-4a20-a1a7-a8467b67ad4a" /></div>
 
 # Mean
 Mean (The average value) = Return the mean of the values in the specified axis.
-
+<div align="center"><img src="" /></div>
 # Median
 Returns a description summary for each column in the DataFrame.
 Median
 Median (The mid point value) = Return the median of the values in the specified axis.
 
-
+<div align="center"><img src="" /></div>
 
 
 
@@ -206,7 +210,7 @@ Median (The mid point value) = Return the median of the values in the specified 
 Mode (The most common value) = Returns the mode of the values in the specified axis.
 
 
-
+<div align="center"><img src="" /></div>
 
 
 - The df.unique() syntax is used to get unique values in the columns of a pandas DataFrame.
