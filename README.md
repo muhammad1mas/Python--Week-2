@@ -8,7 +8,7 @@ Python Functions is a block of statements that return the specific task. The ide
 - In Python, apart from these relationship functions, functions are also a way to organize code with the ultimate goal of code being reusable.
 - Functions are defined with the def keyword followed by the function name and parameters in brackets ()
 - Optionally, a docstring can be added - a documentation string that describes the context of the function
-  <div align="center"><img src="C:\Users\Muhammad Dimas\OneDrive\Pictures\Screenshots\Screenshot 2024-04-20 153859.png"></div>
+ <div align="center"><img src="![Screenshot 2024-04-20 153859](https://github.com/muhammad1mas/Python--Week-2/assets/166146116/5a9e0f58-6747-4ea1-baf7-e7a4ceafc75f)" /></div>
 
 By default, Python will position according to the registration order in which it was defined, and must be called in that order.
 
